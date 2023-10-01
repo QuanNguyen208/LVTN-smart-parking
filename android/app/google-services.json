@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "746112344426",
+    "firebase_url": "https://sdfsdfs-5e8b4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sdfsdfs-5e8b4",
+    "storage_bucket": "sdfsdfs-5e8b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746112344426:android:82862520654ba935d54513",
+        "android_client_info": {
+          "package_name": "com.example.parking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746112344426-471lmmkvv98jr746n34o91uk520jm0il.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCianJ4_tQV2HOAkaPwLs_ksuWGhlfCyvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746112344426-471lmmkvv98jr746n34o91uk520jm0il.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746112344426:android:91e5d59b4dd278b0d54513",
+        "android_client_info": {
+          "package_name": "com.example.smart_parking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746112344426-471lmmkvv98jr746n34o91uk520jm0il.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCianJ4_tQV2HOAkaPwLs_ksuWGhlfCyvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746112344426-471lmmkvv98jr746n34o91uk520jm0il.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746112344426:android:fe5a2cbd90aba8b7d54513",
+        "android_client_info": {
+          "package_name": "com.example.tuna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746112344426-471lmmkvv98jr746n34o91uk520jm0il.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCianJ4_tQV2HOAkaPwLs_ksuWGhlfCyvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746112344426-471lmmkvv98jr746n34o91uk520jm0il.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
